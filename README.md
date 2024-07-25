@@ -17,7 +17,9 @@
 <p align="left">I'm an aspiring Web Development Intern based in Quezon City, Philippines, with hands-on experience in UI/UX and Frontend Development. I am passionate about optimizing web applications to enhance performance and user satisfaction.</p>
 
 ###
+
 <h3 align="left">Let's connect</h3>
+
 ###
 
 ###
