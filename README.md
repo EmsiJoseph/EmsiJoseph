@@ -137,7 +137,7 @@ Makati, Philippines
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/EmsiJoseph/EmsiJoseph/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/EmsiJoseph/EmsiJoseph/blob/1101ecc3f9c4abc4e25d1cbd6a738b607a2a31fc/snake.svg" alt="Snake animation" />
 
 ---
 
