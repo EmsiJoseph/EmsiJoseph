@@ -11,6 +11,10 @@
 ## 🚀 About Me
 I'm an aspiring Web Development Intern based in Quezon City, Philippines, with hands-on experience in UI/UX and Frontend Development. I am passionate about optimizing web applications to enhance performance and user satisfaction.
 
+![Developer at Work](https://imgflip.com/gif/8y5m39)
+
+Let's Connect :>
+
 - 📧 mcagbanlog@outlook.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/mcagbanlog/)
 - 🔗 [GitHub](https://github.com/EmsiJoseph)
@@ -93,7 +97,6 @@ I'm an aspiring Web Development Intern based in Quezon City, Philippines, with h
 - Graphic Design
 - Artificial Intelligence
 
-![Developer at Work](https://imgflip.com/gif/8y5m39)
 
 
 ## 🏆 Certifications
