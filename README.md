@@ -16,7 +16,6 @@ I'm an aspiring Web Development Intern based in Quezon City, Philippines, with h
 - 💼 [LinkedIn](https://www.linkedin.com/in/mcagbanlog/)
 - 🔗 [GitHub](https://github.com/EmsiJoseph)
 
-<br clear="both">
 
 <img src="https://github.com/EmsiJoseph/EmsiJoseph/blob/1101ecc3f9c4abc4e25d1cbd6a738b607a2a31fc/snake.svg" alt="Snake animation" />
 
