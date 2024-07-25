@@ -1,8 +1,5 @@
 <h1 align="left">👋 Hi there, I'm Mc Joseph Agbanlog! from Quezon City, Philippines</h1>
 
-<br clear="both">
-
-<img align="right" height="100" src="https://imgflip.com/gif/8y5m39"  />
 
 ###
 
