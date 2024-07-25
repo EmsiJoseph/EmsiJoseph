@@ -1,4 +1,9 @@
 <h1 align="left">👋 Hi there, I'm Mc Joseph Agbanlog! from Quezon City, Philippines</h1>
+###
+
+<br clear="both">
+
+<img align="right" height="100" src="https://imgflip.com/gif/8y5m39"  />
 
 ###
 
@@ -131,6 +136,12 @@ Makati, Philippines
 - Executing the migration of the Pahiram app from React to Next.js, to improve frontend performance and user experience metrics by 40%.
 - Streamlining the frontend development process, aiming for a 50% improvement in load times, by migrating the existing React app to Next.js.
 - Centralizing inventory, lending, borrowing, and penalty processes to achieve a 30% reduction in user errors by integrating the new Next.js frontend with the existing Laravel backend.
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/EmsiJoseph/EmsiJoseph/output/snake.svg" alt="Snake animation" />
 
 ---
 
