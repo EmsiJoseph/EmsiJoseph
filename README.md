@@ -93,7 +93,8 @@ I'm an aspiring Web Development Intern based in Quezon City, Philippines, with h
 - Graphic Design
 - Artificial Intelligence
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:75%;position:relative;"><iframe width="360" height="270" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/8y5m39"></iframe></div><p><a href="https://imgflip.com/gif/8y5m39">via Imgflip</a></p></div>
+![Developer at Work](https://imgflip.com/gif/8y5m39)
+
 
 ## 🏆 Certifications
 - **AGILE FOUNDATIONS** (LinkedIn Learning)
